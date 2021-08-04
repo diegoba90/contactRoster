@@ -1,10 +1,6 @@
 /*
 Diego Acuna
-CSCI 4100 Dr. Casimir-Patton
-Final Project
- */
 
-/*
  This program will use enumerations to generrate a menu. It will include structs and algorithms. It will use STL containers (vectors) to store data. It will also include exceptions for invalid entries.
  */
 
